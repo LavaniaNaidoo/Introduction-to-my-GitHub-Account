@@ -17,7 +17,7 @@
 ## Projects:
 
 - [x] Digital Resume'
-- Technologies Used: HTML, CSS and Bootstrap 5
+- Technologies Used: HTML, CSS, Bootstrap 5, SwiperJS and some JavaScript
 - About?: First project of my CodeSpace course was to create a CV website of myself 
 - <a href="https://github.com/LavaniaNaidoo/Resume-10"> Click here to be redirected to this project! </a>
 
