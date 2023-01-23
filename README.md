@@ -19,21 +19,26 @@
 - [x] Digital Resume'
 - Technologies Used: HTML, CSS and Bootstrap 5
 - About?: First project of my CodeSpace course was to create a CV website of myself 
+- <a href="https://github.com/LavaniaNaidoo/Resume-10"> Click here to be redirected to this project! </a>
 
 - [x] Todo Application
 - Technologies Used: HTML, CSS, Bootstrap 5, JavaScript and JQuery
 - About?: Second project for CodeSpace was an web application that could add, delete etc. tasks and to-do's
+- <a href="https://github.com/LavaniaNaidoo/To-Do-App-Project"> Click here to be redirected to this project! </a>
 
 - [x] Netflix Clone
 - Technologies Used: HTML, CSS, Bootstrap 5, JavaScript and JQuery
 - About?: Third project for CodeSpace was a functional Netflix Clone to which we had to try and replicate the Netflix User Experience
+- <a href="https://github.com/LavaniaNaidoo/Netflix-Clone-Updated"> Click here to be redirected to this project! </a>
 
 - [x] Podcast Project
 - Technologies Used: HTML, CSS, JavaScript, TypeScript and API's
 - About?: Extra Project for CodeSpace was a podacst viewing and listening web application 
+- <a href="https://github.com/LavaniaNaidoo/podcast-project"> Click here to be redirected to this project! </a>
 
 - [x] Online Bookstore
 - Technologies Used: HTML, CSS, Bootstrap 5, JavaScript, Swiper JS, PHP and MySQL
 - About?: Final Favorite project for CodeSpace was a fully-functional Online Bookstore where users could purchase, view etc, all their favorite books in one place
+- <a href="https://github.com/LavaniaNaidoo/OnlineBookStore"> Click here to be redirected to this project! </a>
 
 ## Happy Perusing!
